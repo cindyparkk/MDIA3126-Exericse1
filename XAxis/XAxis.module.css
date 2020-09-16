@@ -1,0 +1,25 @@
+.xaxis_container {
+    margin-top: 40px;
+}
+
+.xaxis {
+    width: 1104px;
+    height: 0px;
+    border: 1px solid #828282;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.axis_grid {
+    width: 0px;
+    height: 11.5px;
+    border-left: 1px solid #828282;
+    display: flex;
+    justify-content: center;
+}
+
+/* .xaxis .axis_grid:nth-of-type(1):after {
+    content: "0";
+
+} */

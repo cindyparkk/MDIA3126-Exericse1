@@ -1,0 +1,37 @@
+.graph_container {
+    width: 1195px;
+    height: 278px;
+    background-color: white;
+    box-shadow: 2px 4px 18px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 36px;
+}
+
+.graph_bars {
+    margin-top: 50px;
+}
+
+.graph_bars > div {
+    margin-top: 16px;
+}
+
+.bar_one {
+    width: 810px;
+    height: 34px;
+    background-color: #729CF0;
+}
+
+.bar_two {
+    width: 864px;
+    height: 34px;
+    background-color: #CEE861;
+}
+
+.graph_align {
+    display: flex;
+    align-items: ;
+}
+
+.graph_bubble {
+
+}

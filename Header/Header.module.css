@@ -1,0 +1,14 @@
+.myhead {
+    font-size: 24px;
+    color: #4676E5;
+    /* font-family: TT Commons; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+}
+
+.head_p {
+    font-size: 18px;
+    line-height: 21px;
+}

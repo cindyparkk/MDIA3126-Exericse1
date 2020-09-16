@@ -1,0 +1,11 @@
+.speech_bubble {
+    position: relative;
+    background-color: #00C1CD;
+    width: 77.68px;
+    height: 43px;
+    border-radius: .4em;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
